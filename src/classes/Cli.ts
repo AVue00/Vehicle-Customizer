@@ -321,6 +321,7 @@ class Cli {
           name: 'action',
           message: 'Select an action',
           // TODO: add options to tow and wheelie
+          // added tow and wheelie options
           choices: [
             'Print details',
             'Start vehicle',
@@ -332,6 +333,8 @@ class Cli {
             'Reverse',
             'Select or create another vehicle',
             'Exit',
+            'Tow',
+            'Pop a wheelie'
           ],
         },
       ])
