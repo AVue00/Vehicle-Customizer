@@ -46,6 +46,8 @@ Action selected:
 
 ## Credits
 
+Tutor and Copilot help to develop then option in Cli.ts file for if Tow or Wheelie options were selected actions.
+
 Below is my GitHub profile. Any suggestions to improve functionality and code, feel free to reach out to me!
 
 GitHub: https://github.com/AVue00
